@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+gradio
+librosa
+scipy
+numpy
