@@ -28,7 +28,7 @@ def main():
     with gr.Blocks() as demo:
         gr.Markdown("# Idoma Translator App")
         direction = gr.Radio(["English to Idoma", "Idoma to English"], label="Translation Direction")
-        audio_input = gr.Audio(source="upload", type="filepath", label="Input Audio")
+        audio_input = gr.Audio(sources=["microphone", "upload"], type="filepath", label="Input Audio")
         transcribed = gr.Textbox(label="Transcribed Text")
         translated = gr.Textbox(label="Translated Text")
         audio_output = gr.Audio(label="Synthesized Audio")

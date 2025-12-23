@@ -1,6 +1,8 @@
 
 ![Bidirectional English-Idoma Speech-to-Text (STT) and Text-to-Speech (TTS) System](idoma-translator-screenshot.png)
 
+![Bidirectional English-Idoma Speech-to-Text (STT) and Text-to-Speech (TTS) System voice](idoma-translator-screenshot2.png)
+
 📖 **Abstract**
 
 Most speech technology exists for high-resource languages, leaving low-resource languages like Idoma digitally underrepresented. This project bridges that gap by developing a fully functional Bidirectional English-Idoma Speech System.
@@ -114,7 +116,7 @@ If you use this code, models, or dataset in your research, please cite the thesi
 @mastersthesis{Ojabo2025Idoma,
   author  = {Ojabo, John Heart},
   title   = {Developing a Bidirectional English-Idoma Speech-to-Text (STT) and Text-to-Speech (TTS) System for Enhanced Communication and Language Preservation},
-  school  = {University Name},
+  school  = {University of Essex},
   year    = {2025}
 }
 ```
