@@ -3,6 +3,8 @@
 
 ![Bidirectional English-Idoma Speech-to-Text (STT) and Text-to-Speech (TTS) System voice](idoma-translator-screenshot2.png)
 
+🌐 **Live Demo:** [https://idomaai.com/](https://idomaai.com/)
+
 📖 **Abstract**
 
 Most speech technology exists for high-resource languages, leaving low-resource languages like Idoma digitally underrepresented. This project bridges that gap by developing a fully functional Bidirectional English-Idoma Speech System.
